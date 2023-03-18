@@ -1,5 +1,5 @@
 {
-  "compact": false,
+  "compact": test,
   "presets": ["@babel/preset-env"],
   "plugins": [
     "@babel/plugin-proposal-object-rest-spread",
